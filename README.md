@@ -1,5 +1,3 @@
-<img src=".etc/icon.png" align="right" height="300" width="300"/>
-
 # RECRYPTOR
 
 [![GitHub release](https://img.shields.io/github/release/khulnasoft/recryptor.svg)](https://GitHub.com/khulnasoft/recryptor/releases/)
